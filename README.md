@@ -1,4 +1,4 @@
-# Progressive-Uncertainty-Guided-Evidential-UKAN-Network-for-Trustworthy-Medical-Image-Segmentation
+# Progressive-Uncertainty-Guided-Evidential-UKAN-for-Trustworthy-Medical-Image-Segmentation
 Link to the paper：[Paper address]()
 
 ## Project Description:
